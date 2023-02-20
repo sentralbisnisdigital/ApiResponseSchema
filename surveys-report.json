@@ -1,0 +1,105 @@
+{
+  "success": true,
+  "message": null,
+  "data": {
+    "instance": {
+      "name": "Kabupaten Kotawaringin Timur",
+      "short_name": "Kab. Kotim"
+    },
+    "service": {
+      "name": "Akte Kelahiran"
+    },
+    "periode": {
+      "name": "semester II",
+      "year": 2023,
+      "date": {
+        "start": "01 Juli 2023",
+        "end": "31 Desember 2023"
+      }
+    },
+    "ikm": {
+      "value": 88.9,
+      "grade": "Sangat Baik"
+    },
+    "stats": {
+      "respondent": {
+        "total": 37,
+        "male": 20,
+        "female": 17
+      },
+      "educations": [
+        {
+          "name": "SD",
+          "total": 1
+        },
+        {
+          "name": "SMP",
+          "total": 3
+        },
+        {
+          "name": "SMA",
+          "total": 9
+        },
+        {
+          "name": "D3",
+          "total": 12
+        },
+        {
+          "name": "S1",
+          "total": 14
+        },
+        {
+          "name": "S2",
+          "total": 17
+        }
+      ],
+      "details": [
+        {
+          "indicator": "Persyaratan",
+          "value": 77.3,
+          "grade": "Cukup"
+        },
+        {
+          "indicator": "Prosedur",
+          "value": 62.3,
+          "grade": "Baik"
+        },
+        {
+          "indicator": "Waktu Pelayanan",
+          "value": 87.3,
+          "grade": "Cukup"
+        },
+        {
+          "indicator": "Biaya/Tarif",
+          "value": 73.3,
+          "grade": "Sangat Baik"
+        },
+        {
+          "indicator": "Produk Layanan",
+          "value": 66.3,
+          "grade": "Cukup"
+        },
+        {
+          "indicator": "Kompetensi Pelaksana",
+          "value": 79.3,
+          "grade": "Baik"
+        },
+        {
+          "indicator": "Perilaku Pelaksana",
+          "value": 89.3,
+          "grade": "Cukup"
+        },
+        {
+          "indicator": "Penanganan Pengaduan, Saran dan Masukan",
+          "value": 90.3,
+          "grade": "Tidak Baik"
+        },
+        {
+          "indicator": "Sarana dan Prasarana",
+          "value": 95.3,
+          "grade": "Cukup"
+        }
+      ]
+    }
+  }
+}
