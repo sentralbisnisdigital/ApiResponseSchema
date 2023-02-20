@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "get Profession data",
+    "data": [
+        {
+            "id": 1,
+            "name": "PNS",
+            "another": null
+        },
+        {
+            "id": 2,
+            "name": "TNI",
+            "another": null
+        },
+        {
+            "id": 3,
+            "name": "POLRI",
+            "another": null
+        },
+        {
+            "id": 4,
+            "name": "Swasta",
+            "another": null
+        },
+        {
+            "id": 5,
+            "name": "Wirausaha",
+            "another": null
+        }
+    ]
+}
