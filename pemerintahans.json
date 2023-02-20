@@ -1,0 +1,90 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "name": "Kota Palangkaraya",
+            "short_name": "Pemkot Palangkaraya",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Kotawaringin Barat",
+            "short_name": "Pemkab Kobar",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Kotawaringin Timur",
+            "short_name": "Pemkab Kotim",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Seruyan",
+            "short_name": "Pemkab Seruyan",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Katingan",
+            "short_name": "Pemkab Katingan",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Kapuas",
+            "short_name": "Pemkab Kapuas",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Gunung Mas",
+            "short_name": "Pemkab Gumas",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Lamandau",
+            "short_name": "Pemkab Lamandau",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Murung Raya",
+            "short_name": "Pemkab Murung Raya",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Barito Timur",
+            "short_name": "Pemkab Bartim",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Barito Selatan",
+            "short_name": "Pemkab Barsel",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Barito Utara",
+            "short_name": "Pemkab Barito Utara",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Pulang Pisau",
+            "short_name": "Pemkab Pulang Pisau",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        },
+        {
+            "name": "Kabupaten Sukamara",
+            "short_name": "Pemkab Sukamara",
+            "url": "https://disdukcapil.kalteng.go.id/",
+            "logo": "https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png"
+        }
+    ]
+}
