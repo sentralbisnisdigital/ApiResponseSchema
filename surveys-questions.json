@@ -1,0 +1,393 @@
+{
+    "success": true,
+    "message": null,
+    "data": [
+        {
+            "id": 1,
+            "name": "Persyaratan",
+            "alias": "U1",
+            "question": [
+                {
+                    "id": 1,
+                    "text": "Bagaimana pendapat Saudara tentang kesesuaian persyaratan pelayanan dengan jenis pelayanannya.",
+                    "choice_category_id": 1,
+                    "question_category_id": 1,
+                    "choice_category": {
+                        "id": 1,
+                        "name": "Kesesuaian",
+                        "choice": [
+                            {
+                                "id": 1,
+                                "title": "Tidak Sesuai",
+                                "point": 1,
+                                "choice_category_id": 1
+                            },
+                            {
+                                "id": 2,
+                                "title": "Kurang Sesuai",
+                                "point": 2,
+                                "choice_category_id": 1
+                            },
+                            {
+                                "id": 3,
+                                "title": "Sesuai",
+                                "point": 3,
+                                "choice_category_id": 1
+                            },
+                            {
+                                "id": 4,
+                                "title": "Sangat Sesuai",
+                                "point": 4,
+                                "choice_category_id": 1
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Sistem, Mekanisme, dan Prosedur",
+            "alias": "U2",
+            "question": [
+                {
+                    "id": 2,
+                    "text": "Bagaimana pemahaman Saudara tentang kemudahan prosedur pelayanan di unit ini.",
+                    "choice_category_id": 2,
+                    "question_category_id": 2,
+                    "choice_category": {
+                        "id": 2,
+                        "name": "Kemudahan",
+                        "choice": [
+                            {
+                                "id": 5,
+                                "title": "Tidak Mudah",
+                                "point": 1,
+                                "choice_category_id": 2
+                            },
+                            {
+                                "id": 6,
+                                "title": "Kurang Mudah",
+                                "point": 2,
+                                "choice_category_id": 2
+                            },
+                            {
+                                "id": 7,
+                                "title": "Mudah",
+                                "point": 3,
+                                "choice_category_id": 2
+                            },
+                            {
+                                "id": 8,
+                                "title": "Sangat Mudah",
+                                "point": 4,
+                                "choice_category_id": 2
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Waktu Penyelesaian",
+            "alias": "U3",
+            "question": [
+                {
+                    "id": 3,
+                    "text": "Bagaimana pendapat Saudara tentang kecepatan waktu dalam memberikan pelayanan.",
+                    "choice_category_id": 3,
+                    "question_category_id": 3,
+                    "choice_category": {
+                        "id": 3,
+                        "name": "Kecepatan",
+                        "choice": [
+                            {
+                                "id": 9,
+                                "title": "Tidak Cepat",
+                                "point": 1,
+                                "choice_category_id": 3
+                            },
+                            {
+                                "id": 10,
+                                "title": "Kurang Cepat",
+                                "point": 2,
+                                "choice_category_id": 3
+                            },
+                            {
+                                "id": 11,
+                                "title": "Cepat",
+                                "point": 3,
+                                "choice_category_id": 3
+                            },
+                            {
+                                "id": 12,
+                                "title": "Sangat Cepat",
+                                "point": 4,
+                                "choice_category_id": 3
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Biaya/Tarif",
+            "alias": "U4",
+            "question": [
+                {
+                    "id": 4,
+                    "text": "Bagaimana pendapat Saudara tentang kewajaran biaya/tarif dalam pelayanan",
+                    "choice_category_id": 4,
+                    "question_category_id": 4,
+                    "choice_category": {
+                        "id": 4,
+                        "name": "Biaya",
+                        "choice": [
+                            {
+                                "id": 13,
+                                "title": "Sangat Mahal",
+                                "point": 1,
+                                "choice_category_id": 4
+                            },
+                            {
+                                "id": 14,
+                                "title": "Cukup Mahal",
+                                "point": 2,
+                                "choice_category_id": 4
+                            },
+                            {
+                                "id": 15,
+                                "title": "Murah",
+                                "point": 3,
+                                "choice_category_id": 4
+                            },
+                            {
+                                "id": 16,
+                                "title": "Gratis",
+                                "point": 4,
+                                "choice_category_id": 4
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Produk Spesifikasi jenis pelayanan",
+            "alias": "U5",
+            "question": [
+                {
+                    "id": 5,
+                    "text": "Bagaimana pendapat Saudara tentang kesesuaian produk pelayanan antara yang tercantum dalam standar pelayanan dengan hasil yang diberikan.",
+                    "choice_category_id": 1,
+                    "question_category_id": 5,
+                    "choice_category": {
+                        "id": 1,
+                        "name": "Kesesuaian",
+                        "choice": [
+                            {
+                                "id": 1,
+                                "title": "Tidak Sesuai",
+                                "point": 1,
+                                "choice_category_id": 1
+                            },
+                            {
+                                "id": 2,
+                                "title": "Kurang Sesuai",
+                                "point": 2,
+                                "choice_category_id": 1
+                            },
+                            {
+                                "id": 3,
+                                "title": "Sesuai",
+                                "point": 3,
+                                "choice_category_id": 1
+                            },
+                            {
+                                "id": 4,
+                                "title": "Sangat Sesuai",
+                                "point": 4,
+                                "choice_category_id": 1
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Kompetensi pelaksana",
+            "alias": "U6",
+            "question": [
+                {
+                    "id": 6,
+                    "text": "Bagaimana pendapat Saudara tentang kompetensi/kemampuan petugas dalam pelayanan.",
+                    "choice_category_id": 5,
+                    "question_category_id": 6,
+                    "choice_category": {
+                        "id": 5,
+                        "name": "Kompetensi",
+                        "choice": [
+                            {
+                                "id": 17,
+                                "title": "Tidak Kompeten",
+                                "point": 1,
+                                "choice_category_id": 5
+                            },
+                            {
+                                "id": 18,
+                                "title": "Kurang Kompeten",
+                                "point": 2,
+                                "choice_category_id": 5
+                            },
+                            {
+                                "id": 19,
+                                "title": "Kompeten",
+                                "point": 3,
+                                "choice_category_id": 5
+                            },
+                            {
+                                "id": 20,
+                                "title": "Sangat Kompeten",
+                                "point": 4,
+                                "choice_category_id": 5
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Perilaku pelaksana",
+            "alias": "U7",
+            "question": [
+                {
+                    "id": 7,
+                    "text": "Bagamana pendapat saudara perilaku petugas dalam pelayanan terkait kesopanan dan keramahan",
+                    "choice_category_id": 6,
+                    "question_category_id": 7,
+                    "choice_category": {
+                        "id": 6,
+                        "name": "Kesopanan",
+                        "choice": [
+                            {
+                                "id": 21,
+                                "title": "Tidak Sopan dan Ramah",
+                                "point": 1,
+                                "choice_category_id": 6
+                            },
+                            {
+                                "id": 22,
+                                "title": "Kurang Sopan dan Ramah",
+                                "point": 2,
+                                "choice_category_id": 6
+                            },
+                            {
+                                "id": 23,
+                                "title": "Sopan dan Ramah",
+                                "point": 3,
+                                "choice_category_id": 6
+                            },
+                            {
+                                "id": 24,
+                                "title": "Sangat Sopan dan Ramah",
+                                "point": 4,
+                                "choice_category_id": 6
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Penanganan Pengaduan Saran dan Masukan",
+            "alias": "U8",
+            "question": [
+                {
+                    "id": 8,
+                    "text": "Bagaimana pendapat Saudara tentang kualitas sarana dan prasarana",
+                    "choice_category_id": 7,
+                    "question_category_id": 8,
+                    "choice_category": {
+                        "id": 7,
+                        "name": "Kualitas",
+                        "choice": [
+                            {
+                                "id": 25,
+                                "title": "Buruk",
+                                "point": 1,
+                                "choice_category_id": 7
+                            },
+                            {
+                                "id": 26,
+                                "title": "Cukup",
+                                "point": 2,
+                                "choice_category_id": 7
+                            },
+                            {
+                                "id": 27,
+                                "title": "Baik",
+                                "point": 3,
+                                "choice_category_id": 7
+                            },
+                            {
+                                "id": 28,
+                                "title": "Sangat Baik",
+                                "point": 4,
+                                "choice_category_id": 7
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Sarana dan Prasarana",
+            "alias": "U9",
+            "question": [
+                {
+                    "id": 9,
+                    "text": "Bagaimana pendapat Saudara tentang penanganan pengaduan pengguna layanan",
+                    "choice_category_id": 8,
+                    "question_category_id": 9,
+                    "choice_category": {
+                        "id": 8,
+                        "name": "Ketersediaan",
+                        "choice": [
+                            {
+                                "id": 29,
+                                "title": "Tidak Ada",
+                                "point": 1,
+                                "choice_category_id": 8
+                            },
+                            {
+                                "id": 30,
+                                "title": "Ada tetapi tidak berfungsi",
+                                "point": 2,
+                                "choice_category_id": 8
+                            },
+                            {
+                                "id": 31,
+                                "title": "Berfungsi kurang maksimal",
+                                "point": 3,
+                                "choice_category_id": 8
+                            },
+                            {
+                                "id": 32,
+                                "title": "Dikelola dengan baik",
+                                "point": 4,
+                                "choice_category_id": 8
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
