@@ -10,3 +10,4 @@ seluruh data pada repository ini hanya sample untuk mempercepat pengembangan di 
 | Pekerjaan | `https://raw.githubusercontent.com/sentralbisnisdigital/ApiResponseSchema/main/pekerjaans.json` |
 | Pertanyaan | `https://raw.githubusercontent.com/sentralbisnisdigital/ApiResponseSchema/main/surveys-questions.json` |
 | Laporan Survey | `https://raw.githubusercontent.com/sentralbisnisdigital/ApiResponseSchema/main/surveys-report.json`|
+| Post | `https://raw.githubusercontent.com/sentralbisnisdigital/ApiResponseSchema/main/post.json` |
