@@ -1,0 +1,116 @@
+{
+  "success": true,
+  "message": null,
+  "data": {
+    "total_post": "121",
+    "total_page": "13",
+    "current_page": "5",
+    "page_url": [
+      "http://apis.test/api/posts?page=1",
+      "http://apis.test/api/posts?page=2",
+      "http://apis.test/api/posts?page=3",
+      "http://apis.test/api/posts?page=4",
+      "http://apis.test/api/posts?page=5",
+      "http://apis.test/api/posts?page=6",
+      "http://apis.test/api/posts?page=7",
+      "http://apis.test/api/posts?page=8",
+      "http://apis.test/api/posts?page=9",
+      "http://apis.test/api/posts?page=10",
+      "http://apis.test/api/posts?page=11",
+      "http://apis.test/api/posts?page=12",
+      "http://apis.test/api/posts?page=13"
+    ],
+    "posts": [
+      {
+        "id": 9949,
+        "title": "KEGIATAN UPACARA HARI SUMPAH PEMUDA KE 94 TAHUN 2022",
+        "slug": "kegiatan-upacara-hari-sumpah-pemuda-ke-94-tahun-2022",
+        "thumbnail": "",
+        "content": "<p>kepala Dinas Dukcapil Provinsi Kalimantan Tengah mengikuti upacara Peringatan Hari Sumpah Pemuda ke 94 Tahun 2022 yang dipimpin oleh Sekda Provinsi Kalimantan Tengah.<br />\n Peringatan Hari Sumpah tahun 2022 mengusung tema &#8221; Bersatu Bangun Bangsa&#8221;, Sekretaris Daerah Provinsi Kalimantan Tengah mewakili Gubernur Kalimantan Tengah dalam pidatonya menyatakan bagaimana Bangsa Indonesia masyarakat Kalteng khususnya menyikapi perbedaan sikap, primordial, suku, agama, ras dan kultur. Sekda Provinsi Kalteng juga menjelaskan tema tersebut memberikan pesan mendalam bahwa bersatu padu adalah harga mati yang harus dikuatkan untuk membangun ketangguhan dengan persatuan yang menjadi kekuatan melakukan pembangunan peradaban yang unggul sebagai eksistensi bangsa Indonesia.<br />\n Dalam rangkaian upacara tersebut juga dilaksanakan pembacaan ikrar anak bangsa yang merupakan manisfetasi  Deklarasi Bumi Tambun Bungai adalah Bumi Pancasila sekaligus penandatanganan deklarasi Perang Melawan Narkoba.(P.Raya,28/10/2022).</p>\n",
+        "excerpt": "<p>kepala Dinas Dukcapil Provinsi Kalimantan Tengah mengikuti upacara Peringatan Hari Sumpah Pemuda ke 94 Tahun 2022 yang dipimpin oleh Sekda Provinsi Kalimantan Tengah. Peringatan Hari Sumpah tahun 2022 mengusung tema [&hellip;]</p>\n",
+        "created_at": "2022-10-28T15:39:05"
+      },
+      {
+        "id": 9923,
+        "title": "RAPAT PENYUSUNAN PROFIL KEPENDUDUKAN DISDUKCAPIL PROV. KALTENG",
+        "slug": "rapat-penyusunan-profil-kependudukan-disdukcapil-prov-kalteng",
+        "thumbnail": "https://disdukcapil.kalteng.go.id/nfpohnbj7f/2022/10/IMG-20221027-WA0011.jpg",
+        "content": "<p>Dinas Kependudukan dan Pencatatan Sipil Provinsi Kalimantan Tengah mengadakan rapat penyusunan profil kependudukan yang dihadiri oleh OPD terkait.<br />\nProfil kependudukan berisi gambaran umum tentang kondisi, perkembangan,prospek kependudukan menyangkut kuantitas,kualitas dan mobilitas penduduk.<br />\nPenyusunan profil kependudukan diamanatkan Undang-Undang Nomor 24 Tahun 2013 tentang Administrasi Kependudukan pada pasal 5 huruf (e). (P. Raya, 27/10/2022)</p>\n",
+        "excerpt": "<p>Dinas Kependudukan dan Pencatatan Sipil Provinsi Kalimantan Tengah mengadakan rapat penyusunan profil kependudukan yang dihadiri oleh OPD terkait. Profil kependudukan berisi gambaran umum tentang kondisi, perkembangan,prospek kependudukan menyangkut kuantitas,kualitas dan [&hellip;]</p>\n",
+        "created_at": "2022-10-27T17:57:34"
+      },
+      {
+        "id": 9917,
+        "title": "BIMTEK PENERAPAN STANDAR KEAMANAN INFORMASI DENGAN MENERAPKAN ISO/IEC 27001",
+        "slug": "bimtek-penerapan-standar-keamanan-informasi-dengan-menerapkan-iso-iec-27001",
+        "thumbnail": "https://disdukcapil.kalteng.go.id/nfpohnbj7f/2022/10/bimtek.jpeg",
+        "content": "<p>Dinas Dukcapil Provinsi Kalimantan Tengah melaksanakan kegiatan Bimbingan Teknis Penerapan Standar Keamanan Informasi Akses Data Kependudukan untuk Pemberian Hak Akses dan Pemanfaatan Data Kependudukan Dengan Menerapkan ISO/IEC 27001.<br />\nKegiatan dilaksanakan melalui zoom meeting dengan narasumber dari Ditjen Dukcapil Kementerian Dalam Negeri RI dan di hadiri oleh Dinas Dukcapil Kabupaten/Kota, OPD terkait se Provinsi Kalimantan Tengah.<br />\n<strong>Manajemen Keamanan Informasi</strong><br />\nPermendagri Nomor 57 Tahun 2021 Tentang Sistem Manajemen Keamanan Informasi Adminduk yang disingkat SMKI, hal ini upaya pengelolaan Adminduk memiliki standar nasional dan diharapkan SMKI ini dapat menjadi acuan pelaksanaan kegiatan publik.<br />\nAdapun penerapan SNI ISO/IEC 27001:2013 sistem keamanan informasi kemudian perkembangan perjanjian kerjasama dan dalam pelaksanaan PKS dan dalam rangka evaluasi proses pemanfaatan data kependudukan. (Rabu, 27/10/2022).</p>\n",
+        "excerpt": "<p>Dinas Dukcapil Provinsi Kalimantan Tengah melaksanakan kegiatan Bimbingan Teknis Penerapan Standar Keamanan Informasi Akses Data Kependudukan untuk Pemberian Hak Akses dan Pemanfaatan Data Kependudukan Dengan Menerapkan ISO/IEC 27001. Kegiatan dilaksanakan [&hellip;]</p>\n",
+        "created_at": "2022-10-26T15:18:10"
+      },
+      {
+        "id": 9914,
+        "title": "KUNJUNGAN KABID FPAK DISDUKCAPIL KAB. BUNTOK",
+        "slug": "kunjungan-kabid-fpak-disdukcapil-kab-buntok",
+        "thumbnail": "https://disdukcapil.kalteng.go.id/nfpohnbj7f/2022/10/WhatsApp-Image-2022-10-24-at-15.36.50.jpeg",
+        "content": "<p>kunjungan kabid fpak disdukcapil kab buntok, an ibu yg tadi dalam rangka koordinasi terkait dafduk, buku pokok kematian dan pelaporan kematian.</p>\n",
+        "excerpt": "<p>kunjungan kabid fpak disdukcapil kab buntok, an ibu yg tadi dalam rangka koordinasi terkait dafduk, buku pokok kematian dan pelaporan kematian.</p>\n",
+        "created_at": "2022-10-25T13:32:27"
+      },
+      {
+        "id": 9910,
+        "title": "KEGIATAN APEL HARI SANTRI NASIONAL",
+        "slug": "kegiatan-apel-hari-santri-nasional",
+        "thumbnail": "https://disdukcapil.kalteng.go.id/nfpohnbj7f/2022/10/WhatsApp-Image-2022-10-22-at-09.42.221.jpeg",
+        "content": "<p>Kegiatan Kadis Dukcapil Hari Sabtu, 22 Oktober 2022 Mengikuti Apel Hari Santri Nasional di Pondok Pesantren Tebuireng secara virtual pukul:06.30 WIB di Aula Jayang Tingang dan mengikuti apel Hari santri Provinsi Kalteng pukul 08.00 WIB. Pembina Apel Wakil gubernur Kalteng H. Edi Pratowo.</p>\n",
+        "excerpt": "<p>Kegiatan Kadis Dukcapil Hari Sabtu, 22 Oktober 2022 Mengikuti Apel Hari Santri Nasional di Pondok Pesantren Tebuireng secara virtual pukul:06.30 WIB di Aula Jayang Tingang dan mengikuti apel Hari santri [&hellip;]</p>\n",
+        "created_at": "2022-10-23T08:34:48"
+      },
+      {
+        "id": 9904,
+        "title": "PUBLIKASI PENYELENGGARAAN MTQ VI KORPRI TINGKAT NASIONAL TAHUN 2022",
+        "slug": "publikasi-penyelenggaraan-mtq-vi-korpri-tingkat-nasional-tahun-2022",
+        "thumbnail": "",
+        "content": "<p><iframe loading=\"lazy\" src=\"https://drive.google.com/file/d/1lSjP5-p7yl7tCv8m1brXV0gVXRfuOOxw/preview\" width=\"640\" height=\"480\"></iframe></p>\n",
+        "excerpt": "",
+        "created_at": "2022-10-21T10:38:26"
+      },
+      {
+        "id": 9900,
+        "title": "KUNJUNGAN KERJA DARI DINAS DUKCAPIL KAB. LAMANDAU",
+        "slug": "kunjungan-kerja-dari-dinas-dukcapil-kab-lamandau",
+        "thumbnail": "https://disdukcapil.kalteng.go.id/nfpohnbj7f/2022/10/WhatsApp-Image-2022-10-20-at-16.58.47.jpeg",
+        "content": "<p>Kunjungan Kerja Dinas Dukcapil Kabupaten Lamandau ke Dinas Dukcapil Provinsi Kalimantan Tengah dalam rangka konsultasi dan koordinasi terkait pelayanan Dafduk dan Capil serta agenda kegiatan Dafduk dan Capil untuk tahun 2023, rombongan diterima oleh Kasi. Bina Aparatur Pendaftaran Penduduk Bidang FPAK. (P.Raya 20/10/2022)</p>\n",
+        "excerpt": "<p>Kunjungan Kerja Dinas Dukcapil Kabupaten Lamandau ke Dinas Dukcapil Provinsi Kalimantan Tengah dalam rangka konsultasi dan koordinasi terkait pelayanan Dafduk dan Capil serta agenda kegiatan Dafduk dan Capil untuk tahun [&hellip;]</p>\n",
+        "created_at": "2022-10-21T10:15:25"
+      },
+      {
+        "id": 9895,
+        "title": "KUNJUNGAN KADIS DUKCAPIL PROV. KALTENG KE DITJEN DUKCAPIL KEMENDAGRI RI",
+        "slug": "kunjungan-kadis-dukcapil-prov-kalteng-ke-ditjen-dukcapil-kemendagri-ri",
+        "thumbnail": "https://disdukcapil.kalteng.go.id/nfpohnbj7f/2022/10/rakor-adminduk.jpeg",
+        "content": "<p>Kunjungan kerja Bapak Kadis Dukcapil Prov. Kalteng ke Ditjen Dukcapil Kemendagri RI dalam rangka pelaksanaan kegiatan Rakor Adminduk SE Kalimantan Tengah Tahun 2022, kunjungan di terima oleh Sekretaris Korwil Wilayah Kalimantan Ditjen Dukcapil Kementerian Dalam Negeri RI Jakarta dalam rangka pelaksanaan Rakor Penyelenggaraan Adminduk se Kalimantan Tengah Tahun 2022, kunjungan di terima oleh Sekretaris Korwil Kalimantan Ditjen Dukcapil Kementerian Dalam Negeri RI Jakarta. (Oktober, Kamis (20/10/2022).</p>\n",
+        "excerpt": "<p>Kunjungan kerja Bapak Kadis Dukcapil Prov. Kalteng ke Ditjen Dukcapil Kemendagri RI dalam rangka pelaksanaan kegiatan Rakor Adminduk SE Kalimantan Tengah Tahun 2022, kunjungan di terima oleh Sekretaris Korwil Wilayah [&hellip;]</p>\n",
+        "created_at": "2022-10-20T15:37:15"
+      },
+      {
+        "id": 9888,
+        "title": "FORUM KOORDINASI PENGAWASAN &#038; PEMERIKSAAN KEPATUHAN KEPESERTAAN BPJS TINGKAT PROVINSI KALTENG",
+        "slug": "forum-koordinasi-pengawasan-pemeriksaan-kepatuhan-kepesertaan-bpjs-tingkat-provinsi-kalteng",
+        "thumbnail": "https://disdukcapil.kalteng.go.id/nfpohnbj7f/2022/10/WhatsApp-Image-2022-10-20-at-14.08.49.jpeg",
+        "content": "<p style=\"text-align: left;\"> Dinas Dukcapil Prov. Kalteng mengikuti kegiatan Forum koordinasi Pengawasan dan Pemeriksaan Kepatuhan Kepesertaan BPJS Tingkat Provinsi Kalimantan Tengah, Kepala Bidang. Piak dan Pemanfaatan Data menghadiri kegiatan tersebut, Mewakili Kepala Dinas Dukcapil Prov. Kalteng. Kegiatan dilaksanakan dalam rangka meningkatkan serta mempermudah pelayanan kepada masyarakat dengan NIK sebagai identitas peserta program JKN-KIS Dalam meningkatkan dan mempermudah Pelayanan NIK Sebagai Identitas Peserta Program JKN &#8211; KIS. (P. Raya,20/10/2022)</p>\n",
+        "excerpt": "<p> Dinas Dukcapil Prov. Kalteng mengikuti kegiatan Forum koordinasi Pengawasan dan Pemeriksaan Kepatuhan Kepesertaan BPJS Tingkat Provinsi Kalimantan Tengah, Kepala Bidang. Piak dan Pemanfaatan Data menghadiri kegiatan tersebut, Mewakili Kepala Dinas [&hellip;]</p>\n",
+        "created_at": "2022-10-20T14:21:47"
+      },
+      {
+        "id": 9885,
+        "title": "KEGIATAN JEMPUT BOLA PEREKAMAN KTP-EL DISDUKCAPIL KAB. KAPUAS",
+        "slug": "kegiatan-jemput-bola-perekaman-ktp-el-disdukcapil-kab-kapuas",
+        "thumbnail": "https://disdukcapil.kalteng.go.id/nfpohnbj7f/2022/10/KAPUAS.jpeg",
+        "content": "<p>Kegiatan  Jemput Bola Perekaman KTP-El Dinas Dukcapil Kab. Kapuas  untuk melaksanakan perekaman KTP El bagi warga desa Lamunti dan desa-desa wilayah Kec. Mantangai.</p>\n",
+        "excerpt": "<p>Kegiatan  Jemput Bola Perekaman KTP-El Dinas Dukcapil Kab. Kapuas  untuk melaksanakan perekaman KTP El bagi warga desa Lamunti dan desa-desa wilayah Kec. Mantangai.</p>\n",
+        "created_at": "2022-10-19T09:13:54"
+      }
+    ]
+  }
+}
