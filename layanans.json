@@ -4,19 +4,39 @@
     "data": [
         {
             "id": 1,
-            "name": "Akta Kelahiran"
+            "name": "Akta Kelahiran",
+            "persyaratan": "<p>kau menutupi madu</p>",
+            "penjelasan": "<p>siapa dirimu</p>"
         },
         {
             "id": 2,
-            "name": "Kartu Keluarga Baru"
+            "name": "Kartu Keluarga Baru",
+            "persyaratan": "a. Fotokopi buku nikah/kutipan akta perkawinan atau kutipan akta perceraian; dan <br> (Pasal 11 ayat (1) Perpres 96/2018) <br> b. SPTJM perkawinan/perceraian belum tercatat (F-1.05), jika tidak dapat melampirkankutipan akta perkawinan atau perceraian. <br> (Pasal 10 ayat (2) Permendagri 108/2019)",
+            "penjelasan": "a. Penduduk mengisi F-1.02; <br> b. Penduduk menyerahkan fotokopi buku nikah/kutipan akta perkawinan, kutipan akta perceraian atau menyerahkan SPTJM perkawinan/perceraian belum tercatat yang ditandatangan kedua pihak apabila tidak memiliki buku nikah/akta perkawinan; c. Saksi yang dipersyaratkan tidak perlu melampirkan fotokopi KTP-el; dan <br>d. Dinas menerbitkan KK baru.<br>Catatan: <br> Untuk pelayanan online/Daring, persyaratan yang discan/difoto untuk diunggah harus aslinya."
         },
         {
             "id": 3,
-            "name": "Kartu Keluarga Perubahan"
+            "name": "Kartu Keluarga Perubahan",
+            "persyaratan": "a. Fotokopi KK lama; dan <br> b. Berumur sekurang-kurangnya 17(tujuh belas) tahun atau sudah kawin atau pernah kawin yang dibuktikan dengan kepemilikan KTP-el. <br> (Pasal 10 ayat(4) Permendagri 108/109)",
+            "penjelasan": "a. Penduduk mengisi F-1.02; <br> b. Penduduk melampirkan fotokopi buku nikah atau akta perceraian (jika disebabkan pernikahan atau perceraian); <br> c. Penduduk melampirkan KK lama; dan <br> d. Dinas menerbitkan KK Baru."
         },
         {
             "id": 4,
-            "name": "Akta kematian"
+            "name": "Akta kematian",
+            "persyaratan": "",
+            "penjelasan": ""
+        },
+        {
+            "id": 5,
+            "name": "test layanan",
+            "persyaratan": "<p>test persyaratan</p>",
+            "penjelasan": "<p>tes penjelasan</p>"
+        },
+        {
+            "id": 6,
+            "name": "coba lagi",
+            "persyaratan": "<p>ini percobanaan&nbsp;</p>",
+            "penjelasan": "<p>asaskashucaasc</p><p><strong>acascc</strong></p>"
         }
     ]
 }
