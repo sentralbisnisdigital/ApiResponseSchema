@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "message": null,
+    "data": {
+        "base_on_gender": {
+            "total": 51755,
+            "male": 20299,
+            "female": 31456
+        },
+        "base_on_year": [
+            {
+                "name": 2023,
+                "total": 51755
+            },
+            {
+                "name": 2022,
+                "total": 4000
+            }
+        ],
+        "base_on_age": [
+            {
+                "group_age": "65-69",
+                "male": 20299,
+                "female": 31456
+            }
+        ]
+    }
+}
